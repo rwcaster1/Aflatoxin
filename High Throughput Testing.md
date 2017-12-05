@@ -3,14 +3,14 @@
 ### Day 1: OVERNIGHTS
 
 1. Pick a single colony from plate and inoculate 0.5ml of room temp LB/Kan (NOT TB) in STERILE deep well plate (Round bottom 2 mL Deep well plate; e.g. Cat No # 278743)
-  * Generally we have been picking and growing up 4 individual colonies/mutation, so we have quadruplicate data on each mutation. Plate assays have a lot of variability and each colony is not guaranteed to have the mutation, so quadruplicate assaying helps significantly.
+ * Generally we have been picking and growing up 4 individual colonies/mutation, so we have quadruplicate data on each mutation. Plate assays have a lot of variability and each colony is not guaranteed to have the mutation, so quadruplicate assaying helps significantly.
 2. Cover with breathable seal
 3. Shake at 37deg 16-24hrs in warm room plate shaker (Heidolph Brinkmann Titramax 1000 @ 1200rpm) to ensure they are all fully grown
 
 ### Day 2: EXPRESSION
 
 1. Vortex the overnights at 1500rpm for 30sec to ensure to mix any cells that have settled to the bottom into the media.
-  * Make glycerol stocks if first time doing this set: 110uL cells + 110uL 20% glycerol. Store in -80.
+ * Make glycerol stocks if first time doing this set: 110uL cells + 110uL 20% glycerol. Store in -80.
 2. Inoculate a fresh STERILE plate of 1.0ml of TB/Kan in a deep well plate with 20uL of overnight cultures
 3. Cover with breathable seal
 4. Grow at 37deg as above for 3 hours (target OD approx 0.3-0.8)
@@ -26,28 +26,23 @@
 ### Day 3/4: PURIFICATION (~3hrs minimum)
 
 1. Lyse cells via BugBuster (~30min) or Freeze/Thaw Cycles (~3hours)
- * FREEZE/THAW
-   o With repeater add 250uL of appropriate lysis buffer and re-suspend with mixmate (5min at 1500rpm) OR with Pipettman
-   o Place plates in -80 for 15 minutes to freeze
-   o Pull plates out and let thaw for 35 minutes. Shake plate at 1500rpm while thawing.
-   o If doing multiple plates, then rotate plates letting each plate shake for 10minutes.
-   o Make sure cells have thawed, then place back in -80 and repeat so cells are frozen a total of 3 times! If cells have not thawed let mix at room temp for longer!
-
- BUGBUSTER
- With repeater add 250uL of appropriate lysis buffer and re-suspend with mixmate (2min
-at 1000rpm) OR with Pipettman
- Continue to incubate at room temp for 20min, mixing with plate mixer (1000rpm).
-o If you are worried about protein stability then incubate in the cold room for one-
+#### FREEZE/THAW
+ * With repeater add 250uL of appropriate lysis buffer and re-suspend with mixmate (5min at 1500rpm) OR with Pipettman
+ * Place plates in -80 for 15 minutes to freeze
+ * Pull plates out and let thaw for 35 minutes. Shake plate at 1500rpm while thawing.
+ * If doing multiple plates, then rotate plates letting each plate shake for 10minutes.
+ * Make sure cells have thawed, then place back in -80 and repeat so cells are frozen a total of 3 times! If cells have not thawed let mix at room temp for longer!
+#### BUGBUSTER
+ * With repeater add 250uL of appropriate lysis buffer and re-suspend with mixmate (2min at 1000rpm) OR with Pipettman
+ * Continue to incubate at room temp for 20min, mixing with plate mixer (1000rpm).
+  * If you are worried about protein stability then incubate in the cold room for one-
 hour using plate shaker to continuously mix (1200rpm).
 
-o Pellet Insoluble Matter &amp; Clarify Supernatant (~1 hour)
- Spin the lysis for 60min at 4000rpm (spin longer if supernatant is not clear enough. But one hour
-should really be sufficient!)
- If the supernatant still looks cloudy you need to clarify first, but if clear this step can be skipped.
- To clarify: Carefully transfer 200uL of supernatant to a Millipore Multiscreen-HTS DV
-0.65um hydrophil low protein binding filter plate (Part #: MSDVN6550) with a Costar
-V-bottom plate (fisher part #: 07-200- 695) taped below as a collection plate.
- Try to avoid picking up pellet, but a small amount is normal to pick up in this step.
+ * Pellet Insoluble Matter &amp; Clarify Supernatant (~1 hour)
+ * Spin the lysis for 60min at 4000rpm (spin longer if supernatant is not clear enough. But one hour should really be sufficient!)
+ * If the supernatant still looks cloudy you need to clarify first, but if clear this step can be skipped.
+ * To clarify: Carefully transfer 200uL of supernatant to a Millipore Multiscreen-HTS DV 0.65um hydrophil low protein binding filter plate (Part #: MSDVN6550) with a Costar V-bottom plate (fisher part #: 07-200- 695) taped below as a collection plate.
+  * Try to avoid picking up pellet, but a small amount is normal to pick up in this step.
  Spin 2000g for 20minutes (or until most of the supernatant has gone through)
 
 o Purification (~1 hrs)
