@@ -1,25 +1,23 @@
-#96 Well Protein Expressions and Prep
+# 96 Well Protein Expressions and Prep
 
-###Day 1: OVERNIGHTS
+### Day 1: OVERNIGHTS
 
-1. Pick a single colony from plate and inoculate 0.5ml of room temp LB/Kan (NOT TB) in STERILE deep well plate (Round bottom 2 mL Deepwell plate; e.g. Cat No # 7701-5205)
+1. Pick a single colony from plate and inoculate 0.5ml of room temp LB/Kan (NOT TB) in STERILE deep well plate (Round bottom 2 mL Deep well plate; e.g. Cat No # 7701-5205)
   * Generally we have been picking and growing up 4 individual colonies/mutation, so we have quadruplicate data on each mutation. Plate assays have a lot of variability and each colony is not guaranteed to have the mutation, so quadruplicate assaying helps significantly.
 2. Cover with breathable seal
 3. Shake at 37deg 16-24hrs in warm room plate shaker (Heidolph Brinkmann Titramax 1000 @ 1200rpm) to ensure they are all fully grown
 
- Day 2: EXPRESSION
+### Day 2: EXPRESSION
 
-o Vortex the overnights at 1500rpm for 30sec to ensure to mix any cells that have settled to the bottom into
-the media.
- Make glycerol stocks if first time doing this set: 110uL cells + 110uL 20% glycerol. Store in -80.
-o Inoculate a fresh STERILE plate of 1.0ml of TB/Kan in a deep well plate with 20uL of overnight cultures
-o Cover with breathable seal
-o Grow at 37deg as above for 3 hours (target OD approx 0.3-0.8)
-o Add IPTG to 0.5mM (50uL of 10mM IPTG) using the repeater
-o Transfer plate to 18deg shaker (Heidolph Brinkmann Titramax+Incubator 1000 @ 1200rpm in cold room,
-preheat to 18) and shake at 1200rpm for 24-30hrs.
+1. Vortex the overnights at 1500rpm for 30sec to ensure to mix any cells that have settled to the bottom into the media.
+ * Make glycerol stocks if first time doing this set: 110uL cells + 110uL 20% glycerol. Store in -80.
+2. Inoculate a fresh STERILE plate of 1.0ml of TB/Kan in a deep well plate with 20uL of overnight cultures
+3. Cover with breathable seal
+4. Grow at 37deg as above for 3 hours (target OD approx 0.3-0.8)
+5. Add IPTG to 0.5mM (50uL of 10mM IPTG) using the repeater
+6. Transfer plate to 18deg shaker (Heidolph Brinkmann Titramax+Incubator 1000 @ 1200rpm in cold room, preheat to 18) and shake at 1200rpm for 24-30hrs.
 
- Day 3: STORE
+### Day 3: STORE
 
 o Spin down cells at 4000rpm for 20min
 o Pour off supernatant
