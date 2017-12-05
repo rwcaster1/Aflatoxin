@@ -1,7 +1,7 @@
 # Buffers
 ### Wash Buffer
 * 1x PBS
-* 30mM Imidizole
+* 30 mM Imidizole
 ### BUGBUSTER Lysis Buffer
 * 1x PBS
 * 1mM PMSF
@@ -15,4 +15,4 @@
 * 0.2mg/ml DNAse (small scoop)
 ### Elution Buffer
 * 1x PBS
-* 250mM Imidizole
+* 200 mM Imidizole
