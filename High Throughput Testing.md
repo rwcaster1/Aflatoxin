@@ -19,21 +19,19 @@
 
 ### Day 3: STORE
 
-o Spin down cells at 4000rpm for 20min
-o Pour off supernatant
-o Store cells in -20 until ready for purification
+1. Spin down cells at 4000rpm for 20min
+2. Pour off supernatant
+3. Store cells in -20 until ready for purification
 
- Day 3/4: PURIFICATION (~3hrs minimum)
+### Day 3/4: PURIFICATION (~3hrs minimum)
 
-o Lyse cells via BugBuster (~30min) or Freeze/Thaw Cycles (~3hours)
- FREEZE/THAW
- With repeater add 250uL of appropriate lysis buffer and re-suspend with mixmate (5min
-at 1500rpm) OR with Pipettman
- Place plates in -80 for 15 minutes to freeze
- Pull plates out and let thaw for 35 minutes. Shake plate at 1500rpm while thawing.
-o If doing multiple plates, then rotate plates letting each plate shake for 10minutes.
- Make sure cells have thawed, then place back in -80 and repeat so cells are frozen a total
-of 3 times! If cells have not thawed let mix at room temp for longer!
+1. Lyse cells via BugBuster (~30min) or Freeze/Thaw Cycles (~3hours)
+ * FREEZE/THAW
+   o With repeater add 250uL of appropriate lysis buffer and re-suspend with mixmate (5min at 1500rpm) OR with Pipettman
+   o Place plates in -80 for 15 minutes to freeze
+   o Pull plates out and let thaw for 35 minutes. Shake plate at 1500rpm while thawing.
+   o If doing multiple plates, then rotate plates letting each plate shake for 10minutes.
+   o Make sure cells have thawed, then place back in -80 and repeat so cells are frozen a total of 3 times! If cells have not thawed let mix at room temp for longer!
 
  BUGBUSTER
  With repeater add 250uL of appropriate lysis buffer and re-suspend with mixmate (2min
