@@ -84,22 +84,3 @@
 32. Fill with 100mM NiSO4, spin 5min 800rpm and decant
 33. Fill with Water, spin 5min 800rpm and decant
 34. Add 25% Ethanol until beads are in ~50% slurry, STORE AT 4degC
-
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -Buffer Examples; alter to fit your protein’s ideal buffer -- -- -- -- -- -- -- -- -- -
-Wash Buffer:
-1x PBS
-30mM Imidizole
-BUGBUSTER Lysis Buffer:
-1x PBS
-1mM PMSF
-1.5x Bug Buster
-2mg/ml lysozyme (small scoop)
-0.2mg/ml DNAse (small scoop)
-FREEZE/THAW Lysis Buffer:
-1x PBS
-1mM PMSF
-2mg/ml lysozyme (small scoop)
-0.2mg/ml DNAse (small scoop)
-Elution Buffer:
-1x PBS
-250mM Imidizole
