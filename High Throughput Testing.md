@@ -2,7 +2,7 @@
 
 ### Day 1: OVERNIGHTS
 
-1. Pick a single colony from plate and inoculate 0.5ml of room temp LB/Kan (NOT TB) in STERILE deep well plate (Round bottom 2 mL Deep well plate; e.g. Cat No # 7701-5205)
+1. Pick a single colony from plate and inoculate 0.5ml of room temp LB/Kan (NOT TB) in STERILE deep well plate (Round bottom 2 mL Deep well plate; e.g. Cat No # 278743)
   * Generally we have been picking and growing up 4 individual colonies/mutation, so we have quadruplicate data on each mutation. Plate assays have a lot of variability and each colony is not guaranteed to have the mutation, so quadruplicate assaying helps significantly.
 2. Cover with breathable seal
 3. Shake at 37deg 16-24hrs in warm room plate shaker (Heidolph Brinkmann Titramax 1000 @ 1200rpm) to ensure they are all fully grown
@@ -10,7 +10,7 @@
 ### Day 2: EXPRESSION
 
 1. Vortex the overnights at 1500rpm for 30sec to ensure to mix any cells that have settled to the bottom into the media.
- * Make glycerol stocks if first time doing this set: 110uL cells + 110uL 20% glycerol. Store in -80.
+  * Make glycerol stocks if first time doing this set: 110uL cells + 110uL 20% glycerol. Store in -80.
 2. Inoculate a fresh STERILE plate of 1.0ml of TB/Kan in a deep well plate with 20uL of overnight cultures
 3. Cover with breathable seal
 4. Grow at 37deg as above for 3 hours (target OD approx 0.3-0.8)
